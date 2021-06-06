@@ -2,4 +2,4 @@ fastai==1.0.61
 ipywidgets
 voila
 https://download.pytorch.org/whl/cpu/torch-1.8.1-cp39-cp39-manylinux2014_aarch64.whl
-torchvision==0.2.2
+torchvision
