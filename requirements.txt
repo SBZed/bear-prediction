@@ -1,6 +1,6 @@
 wheel==0.36.0
-https://download.pytorch.org/whl/cpu/torch-1.8.1-cp39-cp39-manylinux2014_aarch64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.9.1-cp39-cp39-manylinux2014_aarch64.whl
+pytorch-cpu
+torchvision
 fastai==1.0.61
 ipywidgets
 voila
