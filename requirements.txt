@@ -1,5 +1,5 @@
+https://download.pytorch.org/whl/cpu/torch-1.8.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+torchvision
 fastai==1.0.61
 ipywidgets
 voila
-torch==1.8.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
-torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
